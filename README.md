@@ -25,4 +25,8 @@ git clone <https://github.com/mnabeelasad/Youtube-Video-Transcript-Questions-Ans
 cd <Youtube-Video-Transcript-Questions-Answer>
 ```
 
-![YouTube Transcript Q&A Interface](assets/ss_ui.png)
+## Output Examples
+
+### Generated Text Example
+
+![YouTube Transcript Q&A Interface](https://github.com/mnabeelasad/Youtube-Video-Transcript-Questions-Answer/blob/master/assets/images/d454702d-aeb4-4c36-b8cc-54300be2c80e.png)
