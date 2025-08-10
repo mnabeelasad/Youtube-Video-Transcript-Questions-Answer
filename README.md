@@ -24,5 +24,5 @@ A **Streamlit-based** application that fetches **YouTube video transcripts** and
 git clone <https://github.com/mnabeelasad/Youtube-Video-Transcript-Questions-Answer.git>
 cd <Youtube-Video-Transcript-Questions-Answer>
 
-![YouTube Transcript Q&A Interface](assets/images/d454702d-aeb4-4c36-b8cc-54300be2c80e.png)
-
+- `![YouTube Transcript Q&A Interface]` is the **alt text** that will display if the image doesn't load.
+- `(assets/images/d454702d-aeb4-4c36-b8cc-54300be2c80e.png)` is the **path to the image** within your repository.
