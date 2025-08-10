@@ -21,5 +21,5 @@ A **Streamlit-based** application that fetches **YouTube video transcripts** and
 ### Clone the Repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone <https://github.com/mnabeelasad/Youtube-Video-Transcript-Questions-Answer.git>
+cd <Youtube-Video-Transcript-Questions-Answer>
