@@ -23,3 +23,6 @@ A **Streamlit-based** application that fetches **YouTube video transcripts** and
 ```bash
 git clone <https://github.com/mnabeelasad/Youtube-Video-Transcript-Questions-Answer.git>
 cd <Youtube-Video-Transcript-Questions-Answer>
+
+![YouTube Transcript Q&A Interface](assets/images/assets/images/d454702d-aeb4-4c36-b8cc-54300be2c80e.png)
+
